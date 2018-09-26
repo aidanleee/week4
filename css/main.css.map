@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO,CACH,gBAAgB,CCWF,IAAK,CDVnB,KAAK,CCWW,GAAG,CCbvB,MAAO,CACH,gBAAgB,CDeF,IAAI,CCdlB,KAAK,CDeW,IAAK,CERzB,QAAS,CAAE,gBAAgB,CFTH,OAAO",
+"sources": ["../sass/modules/_header.scss","../sass/_vars.scss","../sass/modules/_footer.scss","../sass/main.scss"],
+"names": [],
+"file": "main.css"
+}
